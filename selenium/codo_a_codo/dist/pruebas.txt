@@ -1,0 +1,3 @@
+jose,perez,202020,Nota1,Sol,Salta,Programador
+juan,gomez,0,Nota2,Div,Córdoba,Testing
+María,,20202015,Nota3,Cas,Tucumán,Programador
