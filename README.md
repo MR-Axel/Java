@@ -1,4 +1,5 @@
 # Java
 
-
-Aquí puedes encontrar diversos ejercicios y proyectos realizados en Java
+Projects developed in Java:
+- Key random
+- Selenium
